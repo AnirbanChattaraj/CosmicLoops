@@ -1,4 +1,4 @@
-//star plus
+//Print star plus
 #include <stdio.h>
 int main() {
     int n;
