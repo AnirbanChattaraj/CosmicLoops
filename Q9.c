@@ -1,4 +1,4 @@
-// star cross
+// Print star cross
 #include <stdio.h>
 int main() {
     int n;
