@@ -1,4 +1,4 @@
-//Hollow Square
+//Print hollow Square
 #include <stdio.h>
 int main() {
     int n;
